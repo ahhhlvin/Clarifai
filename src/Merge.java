@@ -75,7 +75,7 @@ public class Merge
 
         // This MergeStrategy should concatenate the values of the two lists
         // if a list was present in both m1 and m2 under the same key
-        MapMerge.merge(m1, m2, strategy); /* define this object to do the 2nd part of this exercise */);
+//        MapMerge.merge(m1, m2, strategy); /* define this object to do the 2nd part of this exercise */);
 
 
 
